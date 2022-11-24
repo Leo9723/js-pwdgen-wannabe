@@ -1,0 +1,4 @@
+1 - Dare all'utente la possibilità di inserire il proprio nome
+2 - Dare all'utente la possibilità di inserire il proprio cognome
+3 - Dare all'utente la possibilità di inserire il proprio colore preferito
+4 - far apparire a schermo la concatenazione del nome, cognome, colore preferito e il numero 21
